@@ -1,10 +1,10 @@
 # Experience template
 - layout: left
-  company: Company name
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
+  company: Center for Bioelectronics, Biosensors and Biochips (C3B®) at Texas A&M University
+  #link: Link to company (optional)
+  job_title: Graduate Student Assistant
+  dates: Aug. 2019 ~ Dec. 2019
   quote: >
    Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
-    Description of role
+    #Description of role
