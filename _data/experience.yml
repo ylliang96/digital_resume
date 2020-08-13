@@ -1,7 +1,7 @@
 # Experience template
 - layout: left
   company: Center for Bioelectronics, Biosensors and Biochips (C3B®) at Texas A&M University
-  #link: Link to company (optional)
+  link: http://people.tamu.edu/~guiseppi/index.html
   job_title: Graduate Student Assistant
   dates: Aug. 2019 ~ Dec. 2019
   quote: >
@@ -11,10 +11,10 @@
 
 # Experience template
 - layout: left
-  company: Center for Bioelectronics, Biosensors and Biochips (C3B®) at Texas A&M University
+  company: National Chiayi University
   #link: Link to company (optional)
-  job_title: Graduate Student Assistant
-  dates: Aug. 2019 ~ Dec. 2019
+  job_title: Teaching Assistant
+  dates: Jul. 2016 ~ Sep. 2016
   quote: >
    Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
