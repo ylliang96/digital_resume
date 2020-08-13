@@ -56,8 +56,8 @@ more_content: | # this will include new lines to allow paragraphs
   <mark>MATLABL</mark>
   <mark>Data visualization</mark>
   <mark>Statistical Analysis</mark>
-#My skills include: **R** / **SQL** / **Python** / **MATLAB** / **Data visualization** / **Statistical Analysis**
-  I have also appread in **Taiwanese Student Association at Texas A&M** & **2018 The Chinese University of Hong Kong International Student Summit**
+
+  I have also appread in ***Taiwanese Student Association at Texas A&M*** & ***2018 The Chinese University of Hong Kong International Student Summit***
 
 # Footer
 footer_show_references: true
@@ -85,3 +85,8 @@ exclude : [
   "scripts/",
   "docker-compose.yml",
   ]
+  
+  
+  
+  
+  
