@@ -5,6 +5,7 @@ repository: Git repository where your resume will be hosted, only required if yo
 # Personal info
 name: Elaine Y. Liang
 email: yilienliang@gmail.com
+location: College Station, TX
 #website: Your website (eg. https://google.com)(optional)
 
 # Dark Mode (true/false/never)
