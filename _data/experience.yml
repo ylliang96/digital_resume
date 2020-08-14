@@ -1,5 +1,5 @@
 # Experience template
-- layout: left
+- layout: top-middle
   company: Center for Bioelectronics, Biosensors and Biochips (C3B®) at Texas A&M University
   link: Link to company (http://people.tamu.edu/~guiseppi/index.html)
   job_title: Graduate Student Assistant
@@ -10,7 +10,7 @@
     #Description of role
 
 # Experience template
-- layout: left
+- layout: top-middle
   company: National Chiayi University
   #link: Link to company (optional)
   job_title: Teaching Assistant
