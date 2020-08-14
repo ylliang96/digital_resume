@@ -5,12 +5,12 @@
   #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: >
     Short overview of the project (optional)
-  description: | # this will include new lines to allow paragraphs
-    - Performed exploratory data analysis (EDA) with R on ~1 million records of transplantations retrieved from the United Network for Organ Sharing database
-    - Determined the key factors of different waiting times among less populated, moderately populated and more centralized states by creating heat maps of waitlist patients per capita with Tableau
-    - Built a prediction model to estimate waiting time with an ideal goodness of fit by fitting data to JMP statistical software
+  description: | # this will include new lines to allow paragraphs <mark>Java</mark>
+    - Performed exploratory data analysis (EDA) with <mark>R</mark> on ~1 million records of transplantations retrieved from the United Network for Organ Sharing database
+    - Determined the key factors of different waiting times among less populated, moderately populated and more centralized states by creating heat maps of waitlist patients per capita with <mark>Tableau</mark>
+    - Built a prediction model to estimate waiting time with an ideal goodness of fit by fitting data to <mark>JMP</mark> statistical software
     - Evaluated transplant matching ratios by given dates; Results showed that 35.7% of the patients were predicted to match within the first year, and 89% would be matched by their 5th year on the waiting list
-    - Proposed an event tree to calculate the overall probabilities of transplant success, failure, and failure to match of a given patient
+    - Proposed an <mark>event tree</mark> to calculate the overall probabilities of transplant success, failure, and failure to match of a given patient
     - Addressed the preceding issues of information asymmetry in the organ donation practice by capturing the dynamic likelihoods and risks in kidney transplants 
 
 # Project template
