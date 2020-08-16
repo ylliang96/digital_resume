@@ -1,21 +1,30 @@
 # Experience template
 - layout: top-middle
   company: Center for Bioelectronics, Biosensors and Biochips (C3B®) at Texas A&M University
-  link: Link to company (http://people.tamu.edu/~guiseppi/index.html)
+  #link: http://people.tamu.edu/~guiseppi/index.html
   job_title: Graduate Student Assistant
   dates: Aug. 2019 ~ Dec. 2019
   quote: >
-   Short description of the company (optional)
+  #Worked and assisted on project titled "Aesthetic Features of Pediatric Medical Devices that Influence Adherence to Treatment" with Allyson Camp, MS and Prof. Guiseppi-Elie, Sc.D. 
   description: | # this will include new lines to allow paragraphs
-    #Description of role
+    - Collaborated with faculty and students across departments to conduct an interdisciplinary study on aesthetic features of pediatric medical devices
+    - Researched and documented 15+ scientific articles of current external medial devices and their properties to discover latest experimental techniques
+    - Investigated the impact of different variables (e.g.colors and textures) of a medical device on adherence to treatment and determine users’ needs 
+    - Delivered project plans and documented weekly meeting minutes through online collaboration platforms 
 
 # Experience template
 - layout: top-middle
   company: National Chiayi University
   #link: Link to company (optional)
-  job_title: Teaching Assistant
+  job_title: Teaching Assistant of the TOEFL® Program
   dates: Jul. 2016 ~ Sep. 2016
   quote: >
-   Short description of the company (optional)
+  #Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
-    #Description of role
+    - Boosted the efficiency of classroom management by using collaborative cloud platforms with four instructors and one colleague 
+    - Served as a liaison between the instructors and 30+ students by providing learning materials to prepare students for the standardized tests
+    - Set up computers and installed/configured testing software for mock exams at the computer lab
+    - Resolved technical problems in both hardware and software applications in the test center
+    - Graded and answered students’ questions of their quizzes, homework, and tests
+    - Analyzed teaching evaluation questionnaires with statistical tools 
+    - Provided recommendations for future classroom management based on analysis
