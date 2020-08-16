@@ -5,13 +5,15 @@
   qualification: M.S. in Industrial Engineering & Engineering Project Management Certificate
   quote: >
     Highlighted Course:
-    [ISEN613](https://catalog.tamu.edu/graduate/course-descriptions/isen/) Engineering Data Analysis
+    <a href="https://catalog.tamu.edu/graduate/course-descriptions/isen/">ISEN613</a> Engineering Data Analysis
     [ISEN660](https://catalog.tamu.edu/graduate/course-descriptions/isen/) Quantitative Risk Analysis
     [ISEN671](https://catalog.tamu.edu/graduate/course-descriptions/isen/) Human Error and Resilient System Design
     [ISEN689](https://catalog.tamu.edu/graduate/course-descriptions/isen/) Special Topic: Human Performance Modeling
     [ENGR667](https://catalog.tamu.edu/graduate/course-descriptions/engr/) Project Management for Engineers
     [BAEN662](https://catalog.tamu.edu/graduate/course-descriptions/baen/) Statistical Methods in Biological and Agricultural Engineering
-    [BMEN631](https://catalog.tamu.edu/graduate/course-descriptions/bmen/) Bimolecular Engineering 
+    [BMEN631](https://catalog.tamu.edu/graduate/course-descriptions/bmen/) Bimolecular Engineering
+    
+    <a href="https://www.w3schools.com">Visit W3Schools.com!</a>
   description: | # this will include new lines to allow paragraphs
   #Description of qualification
   
