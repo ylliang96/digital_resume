@@ -4,7 +4,7 @@
   dates: Aug. 2018 ~ Dec. 2020 (College Station, TX, USA)
   qualification: M.S. in Industrial Engineering & Engineering Project Management Certificate
   quote: | 
-    Highlighted Course:)
+    <p>Highlighted Course:</p>
     <p><a href="https://catalog.tamu.edu/graduate/course-descriptions/isen/">ISEN613</a> Engineering Data Analysis</p>
     <p><a href="https://catalog.tamu.edu/graduate/course-descriptions/isen/">ISEN660</a> Quantitative Risk Analysis</p>
     <p><a href="https://catalog.tamu.edu/graduate/course-descriptions/isen/">ISEN671</a> Human Error and Resilient System Design</p>
@@ -21,8 +21,8 @@
   dates: Aug. 2014 ~ Jun. 2018 (Chiayi City, Taiwan)
   qualification: B.B.A in Production and Operations Management & 19-credict hours in Biochemistry
   quote: >
-     <p>In-major: Logistics Management, Production Operations Management, Management Science, Managerial Mathematics, Mathematical Economics (I), Information Management, Quality Management</p>
-     <p>Bio- Courses: Basic Concepts in Biomedical Sciences, Biomedicine, Biochemistry (II), Biochemistry Lab (II), Microbiology, Organic Chemistry Lab</p>
+     <p><b>In-major Courses:</b> Logistics Management, Production Operations Management, Management Science, Managerial Mathematics, Mathematical Economics (I), Information Management, Quality Management</p>
+     <p><b>Biochemistry Courses:</b> Basic Concepts in Biomedical Sciences, Biomedicine, Biochemistry (II), Biochemistry Lab (II), Microbiology, Organic Chemistry Lab</p>
   description: | # this will include new lines to allow paragraphs
   #Description of qualification
     
