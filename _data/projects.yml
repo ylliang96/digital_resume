@@ -25,7 +25,7 @@
     - Built cognitive models with Cogulator to simulate human performance in complex driving scenarios with 95.04% accuracy
     - Established <mark>design principles</mark> for product development based on prediction models and by analyzing actual drivers' physiological data collected from monitoring devices (e.g. Tobii Pro Glasses 2 eye-tracker and GoPro Hero 7)
     
-    # Project template
+# Project template
 - layout: top-middle
   name: Oakwell Academy School Drop-off and Pick-up Systems 
   link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
