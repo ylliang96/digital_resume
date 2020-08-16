@@ -33,7 +33,7 @@ linkedin_username: ylliang96
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me (Use this to override about section title)
+about_title: About 
 about_profile_image: images/github_profile_pic.png
 about_content: | # this will include new lines to allow paragraphs
   Elaine Y. Liang is currently pursuing her master’s degree in Industrial Engineering at Texas A&M University (College Station, TX). She often thinks the world is a gigantic machine, which consists of multiple subsystems and is always curious about how humans interact within. Besides spending her time mind-wandering, she also enjoys playing the cello, brewing coffee, and walking.
@@ -48,17 +48,9 @@ about_content: | # this will include new lines to allow paragraphs
 # education_title: Education #(Use this to override about education section title)
 
 # More Section
-# more_title: A Little More About Me #(Use this to override about more section title)
+more_title: A Little More About Liang #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  My skills include:
-  <mark>R</mark>
-  <mark>SQL</mark>
-  <mark>Python</mark>
-  <mark>MATLABL</mark>
-  <mark>Data visualization</mark>
-  <mark>Statistical Analysis</mark>
-
-  I have also appread in ***Taiwanese Student Association at Texas A&M*** & ***2018 The Chinese University of Hong Kong International Student Summit***
+  Elaine have also appread in ***Taiwanese Student Association at Texas A&M*** & ***2018 The Chinese University of Hong Kong International Student Summit***
 
 # Footer
 footer_show_references: false
