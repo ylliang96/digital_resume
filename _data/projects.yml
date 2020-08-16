@@ -4,14 +4,14 @@
   link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
   #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: >
-    Short overview of the project (optional)
+    The study aimed to predict waitlist times of kidney transplant candidates based on contributing factors of kidney diseases (e.g., hypertension, diabetes, glomerulonephritis, polycystic kidney disease, etc.) using statistical modeling techniques.
   description: | # this will include new lines to allow paragraphs <mark>Java</mark>
-    - Performed exploratory data analysis (EDA) with <mark>R</mark> on ~1 million records of transplantations retrieved from the United Network for Organ Sharing database
+    - Performed <mark>exploratory data analysis (EDA)</mark> with <mark>R</mark> on ~1 million records of transplantations retrieved from the United Network for Organ Sharing database
     - Determined the key factors of different waiting times among less populated, moderately populated and more centralized states by creating heat maps of waitlist patients per capita with <mark>Tableau</mark>
     - Built a prediction model to estimate waiting time with an ideal goodness of fit by fitting data to <mark>JMP</mark> statistical software
     - Evaluated transplant matching ratios by given dates; Results showed that 35.7% of the patients were predicted to match within the first year, and 89% would be matched by their 5th year on the waiting list
     - Proposed an <mark>event tree</mark> to calculate the overall probabilities of transplant success, failure, and failure to match of a given patient
-    - Addressed the preceding issues of information asymmetry in the organ donation practice by capturing the dynamic likelihoods and risks in kidney transplants 
+  #- Addressed the preceding issues of information asymmetry in the organ donation practice by capturing the dynamic likelihoods and risks in kidney transplants 
 
 # Project template
 - layout: top-middle
@@ -19,11 +19,24 @@
   link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
   #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: >
-    Short overview of the project (optional)
+    The pilot research aimed to assess the prevalence of distracted driving while using navigation applications. Real-time physiological data and cognitive modeling techniques were applied to discover how different interface designs would affect human performance.
   description: | # this will include new lines to allow paragraphs
-    - Performed <mark>usability</mark> testing to identify design issues which may cause distracted driving in commonly-used navigation apps
-    - Built cognitive models with Cogulator to predict human performance in complex driving scenarios with 95.04% accuracy
+    - Performed <mark>usability</mark> testing to identify design issues related to distracted driving while using navigation apps
+    - Built cognitive models with Cogulator to simulate human performance in complex driving scenarios with 95.04% accuracy
     - Established <mark>design principles</mark> for product development based on prediction models and by analyzing actual drivers' physiological data collected from monitoring devices (e.g. Tobii Pro Glasses 2 eye-tracker and GoPro Hero 7)
+    
+    # Project template
+- layout: top-middle
+  name: Oakwell Academy School Drop-off and Pick-up Systems 
+  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+  #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  quote: >
+    The project aimed to study the level of safety and efficiency of a “student transfer” system in a private school at College Station, TX. By analyzing how users were interacting and operating the system under different environmental contexts, we were able to identify the system’s pain points and therefore proposed solutions to improve its safety and efficiency. 
+  description: | # this will include new lines to allow paragraphs
+    - Identified existing safety issues and <mark>users’ experience</mark> for the drop-off and pick-up systems by working with system operators/users and deploying front-end and task analysis
+    - Improved the system’s safety by implementing designated routes for different types of users
+    - Proposed the Radio-Frequency Identification (RFID) technology to perform ID badging task (paring up student(s) and family) to improve systems’ efficiency and shorten system process time
+    - Implemented the license plate recognition system to help faculty and staff to operate the systems with a higher level of safety and to save labor costs of security/safety officers
     
 # Project template
 - layout: top-middle
@@ -31,40 +44,9 @@
   #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
   #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: >
-    Short overview of the project (optional)
+    A mathematical model was built using linear programming to design an optimal work schedule for emergency room healthcare professionals in the hope of shortening ER queues while minimizing labor costs.
   description: | # this will include new lines to allow paragraphs
     - Generated an optimal medical professional work schedule which minimizes the cost of personnel using <mark>linear programming</mark> while meeting all hard constraints (e.g. emergency room capacity, medical resources, maximum working hours for an employee, etc)
     - Conducted <mark>sensitivity analysis</mark> to exploit the informational content of the decision‐support model
     
-# Project template
-- layout: top-middle
-  name: Oakwell Academy School Drop-off and Pick-up Systems 
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
-  quote: >
-    Short overview of the project (optional)
-  description: | # this will include new lines to allow paragraphs
-    - Identified existing safety issues and <mark>users’ experience</mark> for the drop-off and pick-up systems by working with system operators/users and deploying front-end and task analysis
-    - Improved the system’s safety by implementing designated routes for different types of users
-    - Proposed the Radio-Frequency Identification (RFID) technology to perform ID badging task (paring up student(s) and family) to improve systems’ efficiency and shorten system process time
-    - Implemented the license plate recognition system to help faculty and staff to operate the systems with a higher level of safety and to save labor costs of security/safety officers
 
-# Project template
-- layout: top-middle
-  name: no.5
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
-  quote: >
-    Short overview of the project (optional)
-  description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
-    
-# Project template
-- layout: top-middle
-  name: no.6
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
-  quote: >
-    Short overview of the project (optional)
-  description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
