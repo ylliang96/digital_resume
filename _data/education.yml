@@ -1,7 +1,7 @@
 # Education Template
 - layout: left
   name: Texas A&M University
-  dates: Aug. 2018 ~ Dec. 2020
+  dates: Aug. 2018 ~ Dec. 2020 (College Station, TX, USA)
   qualification: M.S. in Industrial Engineering & Engineering Project Management Certificate
   quote: >
     Highlighted Course:
@@ -17,8 +17,8 @@
   
 # Education Template
 - layout: left
-  name: National Chiayi University (Chiayi City, Taiwan)
-  dates: Aug. 2014 ~ Jun. 2018
+  name: National Chiayi University 
+  dates: Aug. 2014 ~ Jun. 2018 (Chiayi City, Taiwan)
   qualification: B.B.A in Production and Operations Management & 19-credict hours in Biochemistry
   quote: >
     In-major: Logistics Management, Production Operations Management, Management Science, Managerial Mathematics, Mathematical Economics (I), Information Management, Quality Management
