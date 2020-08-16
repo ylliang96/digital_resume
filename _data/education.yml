@@ -4,17 +4,25 @@
   dates: Aug. 2018 ~ Dec. 2020
   qualification: M.S. in Industrial Engineering & Engineering Project Management Certificate
   quote: >
-    #Short institution or course description (optional)
+    Highlighted Course:
+    [ISEN613](https://catalog.tamu.edu/graduate/course-descriptions/isen/) Engineering Data Analysis
+    [ISEN660](https://catalog.tamu.edu/graduate/course-descriptions/isen/) Quantitative Risk Analysis
+    [ISEN671](https://catalog.tamu.edu/graduate/course-descriptions/isen/) Human Error and Resilient System Design
+    [ISEN689](https://catalog.tamu.edu/graduate/course-descriptions/isen/) Special Topic: Human Performance Modeling
+    [ENGR667](https://catalog.tamu.edu/graduate/course-descriptions/engr/) Project Management for Engineers
+    [BAEN662](https://catalog.tamu.edu/graduate/course-descriptions/baen/) Statistical Methods in Biological and Agricultural Engineering
+    [BMEN631](https://catalog.tamu.edu/graduate/course-descriptions/bmen/) Bimolecular Engineering 
   description: | # this will include new lines to allow paragraphs
-    #Description of qualification
+  #Description of qualification
   
 # Education Template
 - layout: left
-  name: National Chiayi University
+  name: National Chiayi University (Chiayi City, Taiwan)
   dates: Aug. 2014 ~ Jun. 2018
   qualification: B.B.A in Production and Operations Management & 19-credict hours in Biochemistry
   quote: >
-    #Short institution or course description (optional)
+    In-major: Logistics Management, Production Operations Management, Management Science, Managerial Mathematics, Mathematical Economics (I), Information Management, Quality Management
+    Bio- Courses: Basic Concepts in Biomedical Sciences, Biomedicine, Biochemistry (II), Biochemistry Lab (II), Microbiology, Organic Chemistry Lab
   description: | # this will include new lines to allow paragraphs
-    #Description of qualification
+  #Description of qualification
     
