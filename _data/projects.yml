@@ -31,7 +31,7 @@
   #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
   #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: >
-    The project aimed to study the level of safety and efficiency of a “student transfer” system in a private school at College Station, TX. By analyzing how users were interacting and operating the system under different environmental contexts, we were able to identify the system’s pain points and therefore proposed solutions to improve its safety and efficiency. 
+    The project aimed to study the safety and efficiency of a “student transfer” system in a private school at College Station, TX. By analyzing how users were interacting and operating the system under different environmental contexts, we were able to identify the system’s pain points and therefore proposed solutions to improve its safety and efficiency. 
   description: | # this will include new lines to allow paragraphs
     - Identified safety issues and <mark>users’ experiences</mark> of the transfer system by working with system operators and deploying front-end and task analysis
     - Improved the system’s safety by implementing designated routes for different needs
