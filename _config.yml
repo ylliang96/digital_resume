@@ -39,7 +39,7 @@ about_content: | # this will include new lines to allow paragraphs
   Elaine Y. Liang is currently pursuing her master’s degree in Industrial Engineering at Texas A&M University (College Station, TX). She often thinks the world is a gigantic machine, which consists of multiple subsystems and is always curious about how humans interact within. Besides spending her time mind-wandering, she also enjoys playing the cello, brewing coffee, and walking. &#127931; &#9749;  &#128694;
 
 # Projects Section
-# projects_title: Projects #(Use this to override about projects section title)
+projects_title: Selected Projects #(Use this to override about projects section title)
 
 # Experience Section
 # experience_title: Experience #(Use this to override about experience section title)
@@ -50,7 +50,7 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 more_title: A Little More About Liang #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  Elaine has also appread in Taiwanese Student Association at Texas A&M & <a href="https://erc.cuhk.edu.hk/apec%20study%20centre/human%20capital%20development/international-student-summit/">2018 The Chinese University of Hong Kong International Student Summit</a>
+  Liang has also appread in Taiwanese Student Association at Texas A&M & <a href="https://erc.cuhk.edu.hk/apec%20study%20centre/human%20capital%20development/international-student-summit/">2018 The Chinese University of Hong Kong International Student Summit</a>
 
 # Footer
 footer_show_references: false
