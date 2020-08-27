@@ -4,7 +4,7 @@ favicon: images/logo4.ico
 
 # Personal info
 name: Elaine Y. Liang
-title: Digital Resume (Last edited on 08/27/20)
+title: Digital Resume 
 email: yilienliang@gmail.com
 location: College Station, TX
 #website: Your website (eg. https://google.com)(optional)
@@ -36,7 +36,7 @@ linkedin_username: ylliang96
 about_title: About 
 about_profile_image: images/github_profile_pic.png
 about_content: | # this will include new lines to allow paragraphs
-  Elaine Y. Liang is currently pursuing her master’s degree in Industrial Engineering at Texas A&M University (College Station, TX). She often thinks the world is a gigantic machine, which consists of multiple subsystems and is always curious about how humans interact within. Besides spending her time mind-wandering, she also enjoys playing the cello, brewing coffee, and walking. &#127931; &#9749;  &#128694;
+  Elaine Y. Liang is currently pursuing her master’s degree in Industrial Engineering at Texas A&M University (College Station, TX). She often thinks the world is a gigantic machine, which consists of multiple subsystems and is always curious about how humans interact within. Besides spending her time mind-wandering, she also enjoys playing the cello, brewing coffee, and walking. &#127931; &#9749;  &#128694; (Last edited on 08/27/20)
 
 # Projects Section
 projects_title: Selected Projects #(Use this to override about projects section title)
