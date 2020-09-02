@@ -1,5 +1,15 @@
 # Experience template
 - layout: top-middle
+  company: Human-Computer Interaction Engineering & Design Laboratory Texas A&M University
+  #link: http://www.jeeeunkim.com/
+  job_title: Graduate Research Intern
+  dates: Aug. 2020 ~ present
+  quote: >
+  #Worked and assisted on project titled "Aesthetic Features of Pediatric Medical Devices that Influence Adherence to Treatment" with Allyson Camp, MS and Prof. Guiseppi-Elie, Sc.D. 
+  description: | # this will include new lines to allow paragraphs
+    
+# Experience template
+- layout: top-middle
   company: Center for Bioelectronics, Biosensors and Biochips (C3B®) at Texas A&M University
   #link: http://people.tamu.edu/~guiseppi/index.html
   job_title: Graduate Student Assistant
