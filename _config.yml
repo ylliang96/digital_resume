@@ -50,7 +50,7 @@ projects_title: Selected Projects #(Use this to override about projects section 
 # More Section
 more_title: A Little More About Liang #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  Liang has also appread in Taiwanese Student Association at Texas A&M & <a href="https://erc.cuhk.edu.hk/apec%20study%20centre/human%20capital%20development/international-student-summit/">2018 The Chinese University of Hong Kong International Student Summit</a>
+  Liang has also appread in <a href="https://taiwantamuedu.wixsite.com/tamu-tsa?fbclid=IwAR2wFp5a-I2eWRgq_gL_BPHVQjEGxW940TqSsgLK8Gd1w60ean-L4gFiO8M">Taiwanese Student Association at Texas A&M</a> & <a href="https://erc.cuhk.edu.hk/apec%20study%20centre/human%20capital%20development/international-student-summit/">2018 The Chinese University of Hong Kong International Student Summit</a>
 
 # Footer
 footer_show_references: false
