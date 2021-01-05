@@ -1,5 +1,17 @@
 # Project template
 - layout: top-middle
+  name: Human-Computer Interaction and Performance Modeling in Assessing Driver Distraction
+  #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+  #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  quote: >
+    The pilot research aimed to assess the prevalence of distracted driving while using navigation applications. Real-time physiological data and cognitive modeling techniques were applied to discover how different interface designs would affect human performance.
+  description: | # this will include new lines to allow paragraphs
+    - Performed <mark>usability testing</mark> to identify design issues within navigation apps which may cause distracted driving
+    - Built cognitive models with Cogulator to simulate human performance in complex driving scenarios with 95.04% accuracy
+    - Established <mark>design principles</mark> for <mark>product development</mark> based on predictions and actual drivers' physiological data collected from monitoring devices
+ 
+ # Project template
+- layout: top-middle
   name: Quantitative Risk Analysis Methods in Kidney Transplantation
   #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
   #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
@@ -13,18 +25,6 @@
     - Proposed an <mark>event tree</mark> to calculate the overall probabilities of transplant success, failure, and failure to match of a given patient
   #- Addressed the preceding issues of information asymmetry in the organ donation practice by capturing the dynamic likelihoods and risks in kidney transplants 
 
-# Project template
-- layout: top-middle
-  name: Human-Computer Interaction and Performance Modeling in Assessing Driver Distraction
-  #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
-  quote: >
-    The pilot research aimed to assess the prevalence of distracted driving while using navigation applications. Real-time physiological data and cognitive modeling techniques were applied to discover how different interface designs would affect human performance.
-  description: | # this will include new lines to allow paragraphs
-    - Performed <mark>usability testing</mark> to identify design issues within navigation apps which may cause distracted driving
-    - Built cognitive models with Cogulator to simulate human performance in complex driving scenarios with 95.04% accuracy
-    - Established <mark>design principles</mark> for <mark>product development</mark> based on predictions and actual drivers' physiological data collected from monitoring devices
-    
 # Project template
 - layout: top-middle
   name: Oakwell Academy School Drop-off and Pick-up Systems 
