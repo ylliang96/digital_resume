@@ -1,9 +1,22 @@
 # Experience template
 - layout: top-middle
+  company: Nokia of America Corporation
+  #link: 
+  job_title: Jr. Human Factors Engineer 
+  dates: March. 2021 ~ present
+  quote: >
+  #Short Description of the Company
+  #description: | # this will include new lines to allow paragraphs
+    - Collaborated with a medium-sized children’s hospital to improve operational efficiency and patient flow in the ICU unit
+    - Performed data collection, analyze and evaluate research results to gain insights of process improvement methods in healthcare services
+    - Co-developed the research and data collection protocols to ensure work quality consistency within the research team
+    
+# Experience template
+- layout: top-middle
   company: Human Factors & Cognitive Systems (HF&CS) Laboratory
   #link: 
   job_title: Graduate Research Assistant 
-  dates: Sep. 2020 ~ present
+  dates: Sep. 2020 ~ Dec. 2020
   quote: >
   #Short Description of the Company
   description: | # this will include new lines to allow paragraphs
@@ -16,7 +29,7 @@
   company: Human-Computer Interaction Engineering & Design Laboratory 
   link: https://hcied.info/
   job_title: Engineering Research Intern
-  dates: Aug. 2020 ~ present
+  dates: Aug. 2020 ~ Dec. 2020
   quote: >
   #Worked and assisted on project titled "Aesthetic Features of Pediatric Medical Devices that Influence Adherence to Treatment" with Allyson Camp, MS and Prof. Guiseppi-Elie, Sc.D. 
   description: | # this will include new lines to allow paragraphs
