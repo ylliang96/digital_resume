@@ -7,9 +7,9 @@
   quote: >
   #Short Description of the Company
   #description: | # this will include new lines to allow paragraphs
-    - Collaborated with a medium-sized children’s hospital to improve operational efficiency and patient flow in the ICU unit
-    - Performed data collection, analyze and evaluate research results to gain insights of process improvement methods in healthcare services
-    - Co-developed the research and data collection protocols to ensure work quality consistency within the research team
+    #- Collaborated with a medium-sized children’s hospital to improve operational efficiency and patient flow in the ICU unit
+    #- Performed data collection, analyze and evaluate research results to gain insights of process improvement methods in healthcare services
+    #- Co-developed the research and data collection protocols to ensure work quality consistency within the research team
 
 # Experience template
 - layout: top-middle
