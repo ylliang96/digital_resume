@@ -1,15 +1,15 @@
 # Experience template
 - layout: top-middle
   company: Nokia of America Corporation 
-  #link: 
+  link: https://www.nokia.com/
   job_title: Jr. Human Factors Engineer 
   dates: March. 2021 ~ present
   quote: >
   #Short Description of the Company
-  #description: | # this will include new lines to allow paragraphs
-    #- Collaborated with a medium-sized children’s hospital to improve operational efficiency and patient flow in the ICU unit
-    #- Performed data collection, analyze and evaluate research results to gain insights of process improvement methods in healthcare services
-    #- Co-developed the research and data collection protocols to ensure work quality consistency within the research team
+  description: | # this will include new lines to allow paragraphs
+    - Fostering the defining and sharing of human factors design principles and standards, artifact reuse, and consistency across internal communications. Contributing to the advocacy of the Nokia venture studio for enterprises
+    - Designing automatic and interactive user interfaces (UIs) to provide cybersecurity and business continuity solutions to enterprises by utilizing formative usability testing
+    - Engaging in consulting activities, discussing findings and recommendations with customers and stakeholders through user journey map that provides visualizations of alternate solutions and facilities effective communications
 
 # Experience template
 - layout: top-middle
